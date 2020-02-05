@@ -35,6 +35,7 @@ function joinedStrings (str1, str2, str3) {
   return `${str1} ${str2} ${str3}`
 }
 
+// Task Five
 // Call that new function directly from your code and
 // alert() the result of that function.
 
