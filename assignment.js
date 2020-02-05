@@ -28,5 +28,9 @@ nameAlert('Bryant')
 // give them any names you want) that returns one combined string (where the
 // three strings are concatenated).
 
+function joinedStrings (str1, str2, str3) {
+  return `${str1} ${str2} ${str3}`
+}
+
 // Call that new function directly from your code and
 // <code>alert()</code> the result of that function.
