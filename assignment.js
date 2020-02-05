@@ -5,6 +5,14 @@ const task3Element = document.getElementById('task-3');
 // receives a name as a parameter and then uses alert() to
 // output that name.
 
+function showAlert() {
+  alert('Showing an Alert')
+}
+
+function nameAlert(name) {
+  alert(`${name}`)
+}
+
 // Call both functions directly from your code.
 
 // Add an event listener to task3Element and attach it to the
