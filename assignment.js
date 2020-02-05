@@ -33,4 +33,7 @@ function joinedStrings (str1, str2, str3) {
 }
 
 // Call that new function directly from your code and
-// <code>alert()</code> the result of that function.
+// alert() the result of that function.
+
+let result = joinedStrings('Hello', 'My name is', 'not important')
+alert(result)
