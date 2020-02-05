@@ -15,6 +15,9 @@ function nameAlert(name) {
 
 // Call both functions directly from your code.
 
+showAlert()
+nameAlert('Bryant')
+
 // Add an event listener to task3Element and attach it to the
 // first function (the one without arguments). Click this task thereafter
 // to verify whether it works.
